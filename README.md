@@ -2,9 +2,7 @@
 
 Below is a sample README file you can use to accompany your documentation for the Nessus Essentials (or OpenVAS) vulnerability assessment project. This README summarizes setup, usage, and report interpretation steps, ensuring clarity for anyone reviewing or repeating the task.
 
-***
-
-# README: Local Vulnerability Assessment using Nessus Essentials
+ Local Vulnerability Assessment using Nessus Essentials
 
 Overview
 
